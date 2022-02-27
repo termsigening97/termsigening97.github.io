@@ -13,13 +13,13 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Sigening Lab
-tagline: Game Developer
+title: Sigening
+tagline: Game Dev
 
 description: >-                        # used by seo meta and the atom feed
   Personal Studies, Devlogs and Lectures
 
-url: 'https://termsigening97.github.io'
+url: 'https://termsigening97.github.io/'
 
 github:
   username: termsigening97
@@ -74,23 +74,20 @@ avatar:
 toc: true
 
 comments:
-  active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
-  # The active options are as follows:
+  active: 'giscus'
   disqus:
-    shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-  # utterances settings › https://utteranc.es/
+    shortname:
   utterances:
-    repo:         # <gh-username>/<repo>
-    issue_term:   # < url | pathname | title | ...>
-  # Giscus options › https://giscus.app
+    repo:
+    issue_term:
   giscus:
-    repo:             # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
-    mapping:          # optional, default to 'pathname'
-    input_position:   # optional, default to 'bottom'
-    lang:             # optional, default to the value of `site.lang`
+    repo: 'termsigening97/termsigening97.github.io'
+    repo_id: 'R_kgDOG6QKqw'
+    category: 'Announcements'
+    category_id: 'DIC_kwDOG6QKq84CBWWc'
+    mapping:
+    input_position: 'top'
+    lang:
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
