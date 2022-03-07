@@ -1,8 +1,8 @@
 ---
 title: '[C++ STL] 덱(Deque)'
 date: 2020-12-23 22:37:00 +0900
-categories: [Lectures, Language]
-tags: [Basic]
+categories: [Lectures, Basic]
+tags: [C++]
 ---
 
 **\[!\]** 덱은 벡터와 거의 유사하기 때문에, 글을 읽기 전에 [이곳](https://termsigening97.github.io/posts/CPP-STL-Vector/)을 눌러 벡터의 게시글을 먼저 읽고 오시는 것을 추천합니다.

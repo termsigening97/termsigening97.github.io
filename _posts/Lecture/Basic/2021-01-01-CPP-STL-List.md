@@ -1,8 +1,8 @@
 ---
 title: '[C++ STL] 리스트(List)'
 date: 2021-01-01 14:12:00 +0900
-categories: [Lectures, Language]
-tags: [Basic]
+categories: [Lectures, Basic]
+tags: [C++]
 ---
 
 리스트(List)는 시퀀스 컨테이너 중, "이중 연결 리스트" 라는 자료구조를 사용하는 노드 기반 컨테이너로 벡터(Vector)나 덱(Deque)와는 다른 성질을 가집니다. 리스트를 완전히 이해하기 위해서는, 이중 연결 리스트와 반복자를 먼저 공부해야 합니다.
