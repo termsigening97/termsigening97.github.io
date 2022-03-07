@@ -1,8 +1,8 @@
 ---
 title: '[C++ STL] 연관 컨테이너 set & map'
 date: 2021-01-08 20:58:00 +0900
-categories: [Lectures, Basic]
-tags: [C++]
+categories: [Lecture, Basic]
+tags: [CPP]
 ---
 
  모든 연관 컨테이너는 노드 기반 컨테이너이고, 균형 이진 트리로 구현되었고 균형 이진 트리의 모든 특징을 가집니다.

@@ -1,8 +1,8 @@
 ---
 title: '[C++ STL 심화] 함수 객체, 함수자'
 date: 2021-01-12 16:39:00 +0900
-categories: [Lectures, Basic]
-tags: [C++]
+categories: [Lecture, Basic]
+tags: [CPP]
 ---
 
 함수 객체 또는 함수자(functor)로 불리는 이것들은 C++의 operator() 연산자를 오버로딩한 클래스 객체입니다. 종류는 크게 2가지로 나눌 수 있으며, 각 세부 분류를 포함하면 다음과 같습니다.

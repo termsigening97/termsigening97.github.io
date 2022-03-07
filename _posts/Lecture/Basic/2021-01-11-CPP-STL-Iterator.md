@@ -1,8 +1,8 @@
 ---
 title: '[C++ STL 심화] 반복자(iterator)'
 date: 2021-01-11 23:20:00 +0900
-categories: [Lectures, Basic]
-tags: [C++]
+categories: [Lecture, Basic]
+tags: [CPP]
 ---
 
 반복자는 포인터를 추상화 한 클래스입니다. 추상화, 클래스에 대해서는 객체지향에 관해 공부하면서 배울 수 있습니다. 그런건 지금은 제쳐 두고, 반복자가 무엇이고, 어떻게 사용하는지에 대해 알아봅시다.

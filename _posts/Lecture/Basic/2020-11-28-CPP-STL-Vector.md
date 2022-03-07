@@ -1,8 +1,8 @@
 ---
 title: '[C++ STL] 벡터(Vector)'
 date: 2020-11-28 01:02:00 +0900
-categories: [Lectures, Basic]
-tags: [C++]
+categories: [Lecture, Basic]
+tags: [CPP]
 ---
 
 벡터(Vector)는 STL에서 컨테이너에 속합니다. 컨테이너는 같은 타입을 저장, 관리하기 위해 만들어진 클래스입니다. 그 중 벡터는 표준 시퀀스 컨테이너(Standard Sequence Container) 에 속하는데, 자신만의 삽입 순서를 가지는 컨테이너라는 뜻입니다. 무슨 말이냐면, 배열처럼 삽입되는 순서에 따라 원소의 위치가 결정되고 바뀌지 않습니다.
