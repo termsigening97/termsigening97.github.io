@@ -386,7 +386,7 @@ Apple     Mango   Beef     Pork
 
 그래프는 데이터의 연결관계를 나타내는 자료구조입니다. 
 
-![Graph](assets/img/Lecture/Basic/Graph.png)
+![Graph]({{site.url}}/assets/img/Lecture/Basic/Graph.png)
 
 여기서 1, 2, 3 과 같은 각 노드(node)들을 정점이라고 부르고 각 선을 간선(edge) 라고 부릅니다. 여기서 정점은 편의상 노드라고 부르는 경우가 많습니다.
 
