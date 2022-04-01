@@ -1,6 +1,6 @@
 ---
 title: '게임 기획과 UX'
-date: 2022-11-09 12:00:00 +0900
+date: 2021-11-09 12:00:00 +0900
 categories: [Lecture, Game Dev]
 tags: [Game Design]
 ---
