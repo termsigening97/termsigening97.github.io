@@ -6,7 +6,7 @@ tags: [Essence]
 mermaid: true
 ---
 
-# Introduction to Data Structure
+> **Introduction to Data Structure**
 
 코딩을 조금 하고 나면 프로그래밍은 데이터를 주로 다룬다는 것을 알 수 있습니다. 컴퓨터 프로그램은 데이터를 입력받고, 조작하고, 반환하는 게 끝입니다. "Hello, World" 라는 문자열과 숫자들이 바로 데이터이죠. 자료구조는 이런 데이터들을 조직하는 방법이며, 코드의 실행 속도에 영향을 미칩니다. 데이터를 어떻게 조직하는지에 따라 프로그램이 수백 수천배보다도 더 빠르거나 느리게 실행될 수 있기 때문이죠.
 
@@ -58,7 +58,7 @@ mermaid: true
 
 삭제 또한 삽입과 똑같습니다. 중간에 데이터를 삭제하면, 삭제한 곳부터 뒤에있는 모든 데이터는 모두 앞으로 한 칸씩 이동시켜 줘야 하기 때문이죠.
 
-# Introduction to Algorithm
+> **Introduction to Algorithm**
 
 알고리즘이란, 단순히 어떤 문제를 해결하는 절차입니다. 예를 들어 유튜브를 보는 알고리즘은 다음과 같습니다.
 
