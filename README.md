@@ -1,1 +1,1 @@
-Devlog & Lecture Blog by Sigening
+Devlog & Lecture Blog by Sigening using Jekyll Chirpy Theme
