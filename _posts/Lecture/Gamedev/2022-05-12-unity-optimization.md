@@ -54,9 +54,9 @@ Mesh의 폴리곤 수에 구애받지 않고 같은 머티리얼을 사용하는
 
 ## Occlusion Culling
 
-다른 오브젝트에 가려진 오브젝트는 렌더링 하지 않는것. Window > Rendering > Occlusion Culling에서 Bake을 눌러 생성할 수 있다. Occluder는 가려지게 하는 오브젝트, Occludee는  가려지는 오브젝트를 의미하는데 Occluder는 사전 데이터가 필요하기 때문에 Static 오브젝트만 가능하고, Occludee는 Dynamic 오브젝트도 가능하다. Mesh Renderer 컴포넌트에 Dynamic Occluded 옵션이 체크되어있으면 활성화된다.
+다른 오브젝트에 가려진 오브젝트는 렌더링 하지 않는것. Window [>] Rendering [>] Occlusion Culling에서 Bake을 눌러 생성할 수 있다. Occluder는 가려지게 하는 오브젝트, Occludee는 가려지는 오브젝트를 의미하는데 Occluder는 사전 데이터가 필요하기 때문에 Static 오브젝트만 가능하고, Occludee는 Dynamic 오브젝트도 가능하다. Mesh Renderer 컴포넌트에 Dynamic Occluded 옵션이 체크되어있으면 활성화된다.
 
-미리 데이터를 만들어 두는 것이기 때문에 정밀도를 설정해야 하는데, 정밀도가 높을수록 데이터 크기가 증가하고 연산 오버헤드가 발생한다. 적절히 테스트해서 맞추자
+미리 데이터를 만들어 두는 것이기 때문에 정밀도를 설정해야 하는데, 정밀도가 높을수록 데이터 크기가 증가하고 연산 오버헤드가 발생한다. 적절히 테스트해서 맞추어야 한다.
 
 ## LOD(Level of Detail)
 
