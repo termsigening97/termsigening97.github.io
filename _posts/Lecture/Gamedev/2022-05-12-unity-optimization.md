@@ -27,7 +27,7 @@ SetPass란? 많은 상태 변경들을 포함하는 것으로, 상태 변경이 
 
 대신 sharedMaterial을 사용하면 공유하고 있는 머티리얼을 수정할 수 있지만, 해당 머티리얼을 사용하는 모든 오브젝트에 적용된다.
 
-Edit > Project Setting > Player
+Edit [>] Project Setting [>] Player
 에서 Static Batching, Dynamic Batching을 사용할 수 있고, 조건이 맞으면 자동 배칭이 된다.
 
 ## Static Batching
